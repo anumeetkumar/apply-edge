@@ -1,6 +1,6 @@
 import { Container, Typography } from "@mui/material";
 import "./App.css";
-import CommonButton from "./lib/componants/form/CommonButton";
+import CommonButton from "@/lib/componants/form/CommonButton";
 
 function App() {
   return (

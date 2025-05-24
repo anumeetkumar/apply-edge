@@ -8,7 +8,7 @@ function App() {
       <Typography variant="h4" component="h1" gutterBottom>
         Welcome to ApplyEdge
       </Typography>
-      <CommonButton variant="contained" color="primary">
+      <CommonButton variant="contained">
         Get Started
       </CommonButton>
     </Container>
